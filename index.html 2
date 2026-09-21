@@ -7,3 +7,75 @@
     <title>Reuben Kiai | Creative Designer</title>
 
     <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <header>
+        <nav>
+            <div class="logo">REUBEN KIAI</div>
+
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <p class="small-title">CREATIVE DESIGNER & WEB CREATOR</p>
+
+            <h1>
+                Turning Ideas Into
+                <span>Creative Experiences.</span>
+            </h1>
+
+            <p class="hero-text">
+                I create modern, engaging designs and websites
+                that communicate ideas clearly and beautifully.
+            </p>
+
+            <div class="hero-buttons">
+                <a href="#projects" class="btn">View My Work</a>
+                <a href="#contact" class="btn secondary">Let's Talk</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- About -->
+    <section id="about" class="section">
+        <div class="section-title">
+            <p>GET TO KNOW ME</p>
+            <h2>About Me</h2>
+        </div>
+
+        <div class="about-content">
+            <div>
+                <h3>Creative. Curious. Always Learning.</h3>
+
+                <p>
+                    I'm Reuben Kiai, a creative designer interested in
+                    graphic design, web development and digital creativity.
+                </p>
+
+                <p>
+                    I enjoy transforming ideas into visual experiences
+                    that are simple, attractive and meaningful.
+                </p>
+            </div>
+
+            <div class="about-box">
+                <h3>My Approach</h3>
+                <p>
+                    Creative thinking, clean design and purposeful
+                    communication.
+                </p>
+            </div>
+        </div>
+    </section>
