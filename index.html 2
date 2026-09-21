@@ -1,21 +1,9 @@
-</section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Contact -->
-    <section id="contact" class="contact">
-        <p>HAVE A PROJECT IN MIND?</p>
+    <title>Reuben Kiai | Creative Designer</title>
 
-        <h2>Let's Create Something<br>Great Together.</h2>
-
-        <a href="mailto:gathuareuben@gmail.com" class="btn">
-            Get In Touch
-        </a>
-    </section>
-
-    <!-- Footer -->
-    <footer>
-        <p>© 2026 Reuben Kiai. All rights reserved.</p>
-        <p>Graphic Designer & Web Creator</p>
-    </footer>
-
-</body>
-</html>
+    <link rel="stylesheet" href="style.css">
